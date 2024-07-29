@@ -19,6 +19,15 @@ ChikitsaSlot is a full-stack web application built using the MERN stack (MongoDB
 - **Database:** MongoDB
 - **Other dependencies:** Axios, Redux, Moment, Ant Design, Bootstrap
 
+## Usage
+
+1. **Open the application in your web browser** (usually at [http://localhost:3000](http://localhost:3000)).
+
+2. **Register as a patient or doctor** (or use existing accounts if available).
+
+3. **Explore the features and functionality** as needed.
+
+
 ## Installation and Setup
 
 1. Clone the repository:
@@ -29,23 +38,18 @@ ChikitsaSlot is a full-stack web application built using the MERN stack (MongoDB
    npm install
    # or
    yarn install
+
 3.Create a .env file in the root directory and set environment variables for database connection, authentication, and other configurations. Example:
 ```sh
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 PORT=your_port_number
+
 4.Start the development server:
 ````sh
 npm start
 # or
 yarn start
 
-## Usage
-
-1. **Open the application in your web browser** (usually at [http://localhost:3000](http://localhost:3000)).
-
-2. **Register as a patient or doctor** (or use existing accounts if available).
-
-3. **Explore the features and functionality** as needed.
 
 

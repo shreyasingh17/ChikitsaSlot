@@ -27,29 +27,27 @@ ChikitsaSlot is a full-stack web application built using the MERN stack (MongoDB
 
 3. **Explore the features and functionality** as needed.
 
-
 ## Installation and Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/ChikitsaSlot
-2. Install dependencies:
+2. **Install dependencies:**
   ```sh
    npm install
    # or
    yarn install
 
-3.Create a .env file in the root directory and set environment variables for database connection, authentication, and other configurations. Example:
+3. **Create a .env file:**
 ```sh
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 PORT=your_port_number
 
-4.Start the development server:
-````sh
+4. **Start the development server:**
+ ```sh
 npm start
 # or
 yarn start
-
 
 
